@@ -46,5 +46,5 @@ In conclusion, this project showcases the successful implementation of secure da
 
 For inquiries and further information, please contact:
 - [Email] atharvaa2001@gmail.com
-- [LinkedIn  Profile] https://www.linkedin.com/in/athavaasavale/
+- [LinkedIn  Profile] https://www.linkedin.com/in/atharvaasavale/
 
